@@ -33,7 +33,7 @@ Please follow these steps to submit your assignment via the **Pull Request** wor
     *   *Example: `ZhangSan_Shakespeare`*
 3.  Upload the following two files into your folder:
     *   **Data File** (The dataset itself)
-    *   **Documentation**: `README.md` (see the template below).
+    *   **Documentation**: `Yourname_README.md` (see the template below).
 4.  Submit a **Pull Request (PR)** to the `main` branch of this repository.
 
 ### Directory Structure Example
@@ -44,20 +44,24 @@ CL-Lab1-Text-Commons/
 ├── data/
 │   ├── 2024001_ZhangSan_Shakespeare/   <-- Your Folder
 │   │   ├── sonnets.txt                 <-- Your Data
-│   │   └── README.md                   <-- Your Metadata Card
+│   │   └── Zhangsan_README.md                   <-- Your Metadata Card
 │   ├── 2024002_LiSi_LegalCases/
 │   │   ├── cases_sample.csv
-│   │   └── README.md
+│   │   └── LIsi_README.md
 │   └── ...
 ```
 
 ---
 
-## Metadata Card Template (README.md)
+## Your Data's Readme Template (Yourname_README.md)
 
-Please use the following template for your dataset's `README.md`.
+Please use the following template.
 
-# [Dataset Name]
+### Naming Convention
+
+Please add your name as a prefix to the filename of your data's readme (e.g., "Yourname_readme.md")
+
+And Please ensure your file includes the following content:
 
 ### 1. Metadata Card
 
